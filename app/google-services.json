@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463804972892",
+    "firebase_url": "https://carteleracineapp.firebaseio.com",
+    "project_id": "carteleracineapp",
+    "storage_bucket": "carteleracineapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463804972892:android:32b55d6c7b9a9a25a90b99",
+        "android_client_info": {
+          "package_name": "com.example.carteleradecineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463804972892-3v2h1aj2pk6tm7jh7m65u47pokk1vm7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carteleradecineapp",
+            "certificate_hash": "1018446385895f6b8e70bdf09c4f9e6fa85ce1fa"
+          }
+        },
+        {
+          "client_id": "463804972892-eeir4v0fag3p51mrnrqkgfghjhnuv2gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMKut5TyzIS2ug4JAVHh03D1boVi32Vyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463804972892-eeir4v0fag3p51mrnrqkgfghjhnuv2gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
